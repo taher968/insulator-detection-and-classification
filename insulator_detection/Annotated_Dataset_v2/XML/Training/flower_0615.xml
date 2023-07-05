@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>flower_0615.jpg</filename>
+    <path>object_detection-PascalVOC-export/Annotations/flower_0615.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>505</width>
+        <height>359</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>non-insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2.4547250775795186</xmin>
+        <ymin>4.31113537117904</ymin>
+        <xmax>503.53695936772687</xmax>
+        <ymax>359</ymax>
+    </bndbox>
+</object>
+</annotation>

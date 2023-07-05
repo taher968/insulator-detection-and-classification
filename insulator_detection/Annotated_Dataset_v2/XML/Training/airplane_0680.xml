@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>airplane_0680.jpg</filename>
+    <path>object_detection-PascalVOC-export/Annotations/airplane_0680.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>277</width>
+        <height>96</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>non-insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.405072463768116</xmin>
+        <ymin>1.4341004184100419</ymin>
+        <xmax>277</xmax>
+        <ymax>96</ymax>
+    </bndbox>
+</object>
+</annotation>
