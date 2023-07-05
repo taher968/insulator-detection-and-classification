@@ -1,3 +1,0 @@
-pillow-heif
-opencv-contrib-python
-imgaug

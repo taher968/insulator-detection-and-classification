@@ -1,6 +1,14 @@
-# insulator-detection-and-classification
-Machine Learning Model to detect defective and polluted insulators
+# Insulator Detection and Classification 
 
-# Running Code
-- Run `pip install -r requirements.txt`
-- Run `python reducing_resolution.py`
+
+## Insulator Detection
+
+This represents the initial model in the pipeline where images will be trained to predict the presence of ceramic insulators along with performing object localization using bounding boxes
+
+This can be found under `insulator_detection/`
+
+## Insulator 
+
+The second part of the pipeline will be used to classify the insulator as broken or not broken
+
+This can be found under `broken_vs_unbroken`
