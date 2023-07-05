@@ -11,4 +11,4 @@ This can be found under `insulator_detection/`
 
 The second part of the pipeline will be used to classify the insulator as broken or not broken
 
-This can be found under `broken_vs_unbroken`
+This can be found under `broken_vs_unbroken/`
