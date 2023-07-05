@@ -7,7 +7,7 @@ This represents the initial model in the pipeline where images will be trained t
 
 This can be found under `insulator_detection/`
 
-## Insulator 
+## Insulator Classification
 
 The second part of the pipeline will be used to classify the insulator as broken or not broken
 
