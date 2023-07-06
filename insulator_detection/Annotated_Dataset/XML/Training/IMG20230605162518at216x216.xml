@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>IMG20230605162518at216x216.jpg</filename>
+    <path>object_detection-PascalVOC-export/Annotations/IMG20230605162518at216x216.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>216</width>
+        <height>216</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>54.70742358078603</xmin>
+        <ymin>135.35371179039302</ymin>
+        <xmax>139.5982532751092</xmax>
+        <ymax>202.5589519650655</ymax>
+    </bndbox>
+</object>
+</annotation>

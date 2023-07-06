@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>motorbike_0008.jpg</filename>
+    <path>object_detection-PascalVOC-export/Annotations/motorbike_0008.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>192</width>
+        <height>104</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>non-insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.6871868289191124</xmin>
+        <ymin>0.5989101717305152</ymin>
+        <xmax>192.00000000000003</xmax>
+        <ymax>104</ymax>
+    </bndbox>
+</object>
+</annotation>

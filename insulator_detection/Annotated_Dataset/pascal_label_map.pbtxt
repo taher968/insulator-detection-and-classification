@@ -1,0 +1,8 @@
+item {
+ id: 1
+ name: 'insulator'
+}
+item {
+ id: 2
+ name: 'non-insulator'
+}

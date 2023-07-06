@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>person_0248.jpg</filename>
+    <path>object_detection-PascalVOC-export/Annotations/person_0248.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>non-insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.537117903930131</xmin>
+        <ymin>0.5589519650655022</ymin>
+        <xmax>254.46288209606985</xmax>
+        <ymax>255.99999999999997</ymax>
+    </bndbox>
+</object>
+</annotation>
